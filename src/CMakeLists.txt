@@ -1,0 +1,11 @@
+add_executable(
+        archiver
+        arch.cpp
+        dearch.cpp
+        heap.cpp
+        trie.cpp
+        byte_reader.cpp
+        byte_printer.cpp
+        console_reader.cpp
+        archiver.cpp
+)
